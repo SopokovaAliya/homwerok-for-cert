@@ -1,0 +1,15 @@
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\bin\Debug\net8.0\zadacha2.exe
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\bin\Debug\net8.0\zadacha2.deps.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\bin\Debug\net8.0\zadacha2.runtimeconfig.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\bin\Debug\net8.0\zadacha2.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\bin\Debug\net8.0\zadacha2.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.AssemblyInfoInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.AssemblyInfo.cs
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.sourcelink.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\refint\zadacha2.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\zadacha2.genruntimeconfig.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Homework7_seminar\zadacha2\obj\Debug\net8.0\ref\zadacha2.dll
